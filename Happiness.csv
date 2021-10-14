@@ -1,0 +1,367 @@
+Alcohol type,Country,Hemisphere,Region,Consumed value,GDP PerCapita,Happiness Score,HDI,Total PerCapita
+Beer PerCapita,Denmark,north,Western Europe,224,53.579,7.526,928,583
+Spirit PerCapita,Denmark,north,Western Europe,81,53.579,7.526,928,583
+Wine PerCapita,Denmark,north,Western Europe,278,53.579,7.526,928,583
+Beer PerCapita,Switzerland,north,Western Europe,185,79.866,7.509,943,565
+Spirit PerCapita,Switzerland,north,Western Europe,100,79.866,7.509,943,565
+Wine PerCapita,Switzerland,north,Western Europe,280,79.866,7.509,943,565
+Beer PerCapita,Iceland,north,Western Europe,233,60.53,7.501,933,372
+Spirit PerCapita,Iceland,north,Western Europe,61,60.53,7.501,933,372
+Wine PerCapita,Iceland,north,Western Europe,78,60.53,7.501,933,372
+Beer PerCapita,Norway,north,Western Europe,169,70.89,7.498,951,369
+Spirit PerCapita,Norway,north,Western Europe,71,70.89,7.498,951,369
+Wine PerCapita,Norway,north,Western Europe,129,70.89,7.498,951,369
+Beer PerCapita,Finland,north,Western Europe,263,43.433,7.413,918,493
+Spirit PerCapita,Finland,north,Western Europe,133,43.433,7.413,918,493
+Wine PerCapita,Finland,north,Western Europe,97,43.433,7.413,918,493
+Beer PerCapita,Canada,north,North America,240,42.349,7.404,922,462
+Spirit PerCapita,Canada,north,North America,122,42.349,7.404,922,462
+Wine PerCapita,Canada,north,North America,100,42.349,7.404,922,462
+Beer PerCapita,Netherlands,north,Western Europe,251,45.638,7.339,928,529
+Spirit PerCapita,Netherlands,north,Western Europe,88,45.638,7.339,928,529
+Wine PerCapita,Netherlands,north,Western Europe,190,45.638,7.339,928,529
+Beer PerCapita,New Zealand,south,Australia and New Zealand,203,40.332,7.334,915,457
+Spirit PerCapita,New Zealand,south,Australia and New Zealand,79,40.332,7.334,915,457
+Wine PerCapita,New Zealand,south,Australia and New Zealand,175,40.332,7.334,915,457
+Beer PerCapita,Australia,south,Australia and New Zealand,261,49.897,7.313,938,545
+Spirit PerCapita,Australia,south,Australia and New Zealand,72,49.897,7.313,938,545
+Wine PerCapita,Australia,south,Australia and New Zealand,212,49.897,7.313,938,545
+Beer PerCapita,Sweden,north,Western Europe,152,51.845,7.291,932,398
+Spirit PerCapita,Sweden,north,Western Europe,60,51.845,7.291,932,398
+Wine PerCapita,Sweden,north,Western Europe,186,51.845,7.291,932,398
+Beer PerCapita,Israel,north,Middle East and Northern Africa,63,37.181,7.267,902,141
+Spirit PerCapita,Israel,north,Middle East and Northern Africa,69,37.181,7.267,902,141
+Wine PerCapita,Israel,north,Middle East and Northern Africa,9,37.181,7.267,902,141
+Beer PerCapita,Austria,north,Western Europe,279,44.731,7.119,906,545
+Spirit PerCapita,Austria,north,Western Europe,75,44.731,7.119,906,545
+Wine PerCapita,Austria,north,Western Europe,191,44.731,7.119,906,545
+Beer PerCapita,United States of America,north,North America,249,57.589,7.104,922,491
+Spirit PerCapita,United States of America,north,North America,158,57.589,7.104,922,491
+Wine PerCapita,United States of America,north,North America,84,57.589,7.104,922,491
+Beer PerCapita,Costa Rica,north,Latin America and Caribbean,149,11.733,7.087,791,247
+Spirit PerCapita,Costa Rica,north,Latin America and Caribbean,87,11.733,7.087,791,247
+Wine PerCapita,Costa Rica,north,Latin America and Caribbean,11,11.733,7.087,791,247
+Beer PerCapita,Germany,north,Western Europe,346,42.233,6.994,934,638
+Spirit PerCapita,Germany,north,Western Europe,117,42.233,6.994,934,638
+Wine PerCapita,Germany,north,Western Europe,175,42.233,6.994,934,638
+Beer PerCapita,Brazil,both,Latin America and Caribbean,245,8.639,6.952,758,406
+Spirit PerCapita,Brazil,both,Latin America and Caribbean,145,8.639,6.952,758,406
+Wine PerCapita,Brazil,both,Latin America and Caribbean,16,8.639,6.952,758,406
+Beer PerCapita,Belgium,north,Western Europe,295,41.261,6.929,915,591
+Spirit PerCapita,Belgium,north,Western Europe,84,41.261,6.929,915,591
+Wine PerCapita,Belgium,north,Western Europe,212,41.261,6.929,915,591
+Beer PerCapita,Ireland,north,Western Europe,313,64.1,6.907,934,596
+Spirit PerCapita,Ireland,north,Western Europe,118,64.1,6.907,934,596
+Wine PerCapita,Ireland,north,Western Europe,165,64.1,6.907,934,596
+Beer PerCapita,Luxembourg,north,Western Europe,236,100.739,6.871,904,640
+Spirit PerCapita,Luxembourg,north,Western Europe,133,100.739,6.871,904,640
+Wine PerCapita,Luxembourg,north,Western Europe,271,100.739,6.871,904,640
+Beer PerCapita,Mexico,north,Latin America and Caribbean,238,8.444,6.778,772,311
+Spirit PerCapita,Mexico,north,Latin America and Caribbean,68,8.444,6.778,772,311
+Wine PerCapita,Mexico,north,Latin America and Caribbean,5,8.444,6.778,772,311
+Beer PerCapita,Singapore,north,Southeastern Asia,60,55.243,6.739,930,83
+Spirit PerCapita,Singapore,north,Southeastern Asia,12,55.243,6.739,930,83
+Wine PerCapita,Singapore,north,Southeastern Asia,11,55.243,6.739,930,83
+Beer PerCapita,United Kingdom,north,Western Europe,219,40.412,6.725,920,540
+Spirit PerCapita,United Kingdom,north,Western Europe,126,40.412,6.725,920,540
+Wine PerCapita,United Kingdom,north,Western Europe,195,40.412,6.725,920,540
+Beer PerCapita,Chile,south,Latin America and Caribbean,130,13.961,6.705,842,426
+Spirit PerCapita,Chile,south,Latin America and Caribbean,124,13.961,6.705,842,426
+Wine PerCapita,Chile,south,Latin America and Caribbean,172,13.961,6.705,842,426
+Beer PerCapita,Panama,north,Latin America and Caribbean,285,14.333,6.701,785,407
+Spirit PerCapita,Panama,north,Latin America and Caribbean,104,14.333,6.701,785,407
+Wine PerCapita,Panama,north,Latin America and Caribbean,18,14.333,6.701,785,407
+Beer PerCapita,Argentina,south,Latin America and Caribbean,193,12.654,6.65,822,439
+Spirit PerCapita,Argentina,south,Latin America and Caribbean,25,12.654,6.65,822,439
+Wine PerCapita,Argentina,south,Latin America and Caribbean,221,12.654,6.65,822,439
+Beer PerCapita,Czech Republic,north,Central and Eastern Europe,361,18.484,6.596,885,665
+Spirit PerCapita,Czech Republic,north,Central and Eastern Europe,170,18.484,6.596,885,665
+Wine PerCapita,Czech Republic,north,Central and Eastern Europe,134,18.484,6.596,885,665
+Beer PerCapita,United Arab Emirates,north,Middle East and Northern Africa,16,38.518,6.573,862,156
+Spirit PerCapita,United Arab Emirates,north,Middle East and Northern Africa,135,38.518,6.573,862,156
+Wine PerCapita,United Arab Emirates,north,Middle East and Northern Africa,5,38.518,6.573,862,156
+Beer PerCapita,Uruguay,south,Latin America and Caribbean,115,15.298,6.545,802,370
+Spirit PerCapita,Uruguay,south,Latin America and Caribbean,35,15.298,6.545,802,370
+Wine PerCapita,Uruguay,south,Latin America and Caribbean,220,15.298,6.545,802,370
+Beer PerCapita,Malta,north,Western Europe,149,24.771,6.488,875,369
+Spirit PerCapita,Malta,north,Western Europe,100,24.771,6.488,875,369
+Wine PerCapita,Malta,north,Western Europe,120,24.771,6.488,875,369
+Beer PerCapita,Colombia,both,Latin America and Caribbean,159,5.757,6.481,747,238
+Spirit PerCapita,Colombia,both,Latin America and Caribbean,76,5.757,6.481,747,238
+Wine PerCapita,Colombia,both,Latin America and Caribbean,3,5.757,6.481,747,238
+Beer PerCapita,France,north,Western Europe,127,36.87,6.478,899,648
+Spirit PerCapita,France,north,Western Europe,151,36.87,6.478,899,648
+Wine PerCapita,France,north,Western Europe,370,36.87,6.478,899,648
+Beer PerCapita,Thailand,north,Southeastern Asia,99,5.979,6.474,748,358
+Spirit PerCapita,Thailand,north,Southeastern Asia,258,5.979,6.474,748,358
+Wine PerCapita,Thailand,north,Southeastern Asia,1,5.979,6.474,748,358
+Beer PerCapita,Qatar,north,Middle East and Northern Africa,1,59.324,6.375,855,50
+Spirit PerCapita,Qatar,north,Middle East and Northern Africa,42,59.324,6.375,855,50
+Wine PerCapita,Qatar,north,Middle East and Northern Africa,7,59.324,6.375,855,50
+Beer PerCapita,Spain,north,Western Europe,284,26.617,6.361,889,553
+Spirit PerCapita,Spain,north,Western Europe,157,26.617,6.361,889,553
+Wine PerCapita,Spain,north,Western Europe,112,26.617,6.361,889,553
+Beer PerCapita,Guatemala,north,Latin America and Caribbean,53,4.141,6.324,649,124
+Spirit PerCapita,Guatemala,north,Latin America and Caribbean,69,4.141,6.324,649,124
+Wine PerCapita,Guatemala,north,Latin America and Caribbean,2,4.141,6.324,649,124
+Beer PerCapita,Suriname,north,Latin America and Caribbean,128,5.871,6.269,719,313
+Spirit PerCapita,Suriname,north,Latin America and Caribbean,178,5.871,6.269,719,313
+Wine PerCapita,Suriname,north,Latin America and Caribbean,7,5.871,6.269,719,313
+Beer PerCapita,Bahrain,north,Middle East and Northern Africa,42,22.561,6.218,846,112
+Spirit PerCapita,Bahrain,north,Middle East and Northern Africa,63,22.561,6.218,846,112
+Wine PerCapita,Bahrain,north,Middle East and Northern Africa,7,22.561,6.218,846,112
+Beer PerCapita,Trinidad and Tobago,north,Latin America and Caribbean,197,16.352,6.168,785,360
+Spirit PerCapita,Trinidad and Tobago,north,Latin America and Caribbean,156,16.352,6.168,785,360
+Wine PerCapita,Trinidad and Tobago,north,Latin America and Caribbean,7,16.352,6.168,785,360
+Beer PerCapita,Venezuela,north,Latin America and Caribbean,333,15.692,6.084,766,436
+Spirit PerCapita,Venezuela,north,Latin America and Caribbean,100,15.692,6.084,766,436
+Wine PerCapita,Venezuela,north,Latin America and Caribbean,3,15.692,6.084,766,436
+Beer PerCapita,Slovakia,north,Central and Eastern Europe,196,16.53,6.078,853,605
+Spirit PerCapita,Slovakia,north,Central and Eastern Europe,293,16.53,6.078,853,605
+Wine PerCapita,Slovakia,north,Central and Eastern Europe,116,16.53,6.078,853,605
+Beer PerCapita,El Salvador,north,Latin America and Caribbean,52,3.769,6.068,679,123
+Spirit PerCapita,El Salvador,north,Latin America and Caribbean,69,3.769,6.068,679,123
+Wine PerCapita,El Salvador,north,Latin America and Caribbean,2,3.769,6.068,679,123
+Beer PerCapita,Nicaragua,north,Latin America and Caribbean,78,2.144,5.992,657,197
+Spirit PerCapita,Nicaragua,north,Latin America and Caribbean,118,2.144,5.992,657,197
+Wine PerCapita,Nicaragua,north,Latin America and Caribbean,1,2.144,5.992,657,197
+Beer PerCapita,Uzbekistan,north,Central and Eastern Europe,25,2.106,5.987,703,134
+Spirit PerCapita,Uzbekistan,north,Central and Eastern Europe,101,2.106,5.987,703,134
+Wine PerCapita,Uzbekistan,north,Central and Eastern Europe,8,2.106,5.987,703,134
+Beer PerCapita,Italy,north,Western Europe,85,30.669,5.977,878,364
+Spirit PerCapita,Italy,north,Western Europe,42,30.669,5.977,878,364
+Wine PerCapita,Italy,north,Western Europe,237,30.669,5.977,878,364
+Beer PerCapita,Ecuador,both,Latin America and Caribbean,162,6.019,5.976,749,239
+Spirit PerCapita,Ecuador,both,Latin America and Caribbean,74,6.019,5.976,749,239
+Wine PerCapita,Ecuador,both,Latin America and Caribbean,3,6.019,5.976,749,239
+Beer PerCapita,Belize,north,Latin America and Caribbean,263,4.96,5.956,709,385
+Spirit PerCapita,Belize,north,Latin America and Caribbean,114,4.96,5.956,709,385
+Wine PerCapita,Belize,north,Latin America and Caribbean,8,4.96,5.956,709,385
+Beer PerCapita,Japan,noth,Eastern Asia,77,38.972,5.921,907,295
+Spirit PerCapita,Japan,noth,Eastern Asia,202,38.972,5.921,907,295
+Wine PerCapita,Japan,noth,Eastern Asia,16,38.972,5.921,907,295
+Beer PerCapita,Kazakhstan,north,Central and Eastern Europe,124,7.715,5.919,797,382
+Spirit PerCapita,Kazakhstan,north,Central and Eastern Europe,246,7.715,5.919,797,382
+Wine PerCapita,Kazakhstan,north,Central and Eastern Europe,12,7.715,5.919,797,382
+Beer PerCapita,Moldova,north,Central and Eastern Europe,109,1.913,5.897,697,353
+Spirit PerCapita,Moldova,north,Central and Eastern Europe,226,1.913,5.897,697,353
+Wine PerCapita,Moldova,north,Central and Eastern Europe,18,1.913,5.897,697,353
+Beer PerCapita,Russia,north,Central and Eastern Europe,247,8.748,5.856,815,646
+Spirit PerCapita,Russia,north,Central and Eastern Europe,326,8.748,5.856,815,646
+Wine PerCapita,Russia,north,Central and Eastern Europe,73,8.748,5.856,815,646
+Beer PerCapita,Poland,north,Central and Eastern Europe,343,12.415,5.835,860,614
+Spirit PerCapita,Poland,north,Central and Eastern Europe,215,12.415,5.835,860,614
+Wine PerCapita,Poland,north,Central and Eastern Europe,56,12.415,5.835,860,614
+Beer PerCapita,South Korea,noth,Eastern Asia,140,27.105,5.835,900,165
+Spirit PerCapita,South Korea,noth,Eastern Asia,16,27.105,5.835,900,165
+Wine PerCapita,South Korea,noth,Eastern Asia,9,27.105,5.835,900,165
+Beer PerCapita,Bolivia,south,Latin America and Caribbean,167,3.117,5.822,689,216
+Spirit PerCapita,Bolivia,south,Latin America and Caribbean,41,3.117,5.822,689,216
+Wine PerCapita,Bolivia,south,Latin America and Caribbean,8,3.117,5.822,689,216
+Beer PerCapita,Lithuania,north,Central and Eastern Europe,343,14.913,5.813,855,643
+Spirit PerCapita,Lithuania,north,Central and Eastern Europe,244,14.913,5.813,855,643
+Wine PerCapita,Lithuania,north,Central and Eastern Europe,56,14.913,5.813,855,643
+Beer PerCapita,Belarus,north,Central and Eastern Europe,142,5.023,5.802,805,557
+Spirit PerCapita,Belarus,north,Central and Eastern Europe,373,5.023,5.802,805,557
+Wine PerCapita,Belarus,north,Central and Eastern Europe,42,5.023,5.802,805,557
+Beer PerCapita,Slovenia,north,Central and Eastern Europe,270,21.65,5.768,894,597
+Spirit PerCapita,Slovenia,north,Central and Eastern Europe,51,21.65,5.768,894,597
+Wine PerCapita,Slovenia,north,Central and Eastern Europe,276,21.65,5.768,894,597
+Beer PerCapita,Peru,both,Latin America and Caribbean,163,6.031,5.743,748,344
+Spirit PerCapita,Peru,both,Latin America and Caribbean,160,6.031,5.743,748,344
+Wine PerCapita,Peru,both,Latin America and Caribbean,21,6.031,5.743,748,344
+Beer PerCapita,Turkmenistan,north,Central and Eastern Europe,19,6.389,5.658,705,122
+Spirit PerCapita,Turkmenistan,north,Central and Eastern Europe,71,6.389,5.658,705,122
+Wine PerCapita,Turkmenistan,north,Central and Eastern Europe,32,6.389,5.658,705,122
+Beer PerCapita,Mauritius,north,Sub-Saharan Africa,98,9.682,5.648,788,147
+Spirit PerCapita,Mauritius,north,Sub-Saharan Africa,31,9.682,5.648,788,147
+Wine PerCapita,Mauritius,north,Sub-Saharan Africa,18,9.682,5.648,788,147
+Beer PerCapita,Latvia,north,Central and Eastern Europe,281,14.07,5.56,844,559
+Spirit PerCapita,Latvia,north,Central and Eastern Europe,216,14.07,5.56,844,559
+Wine PerCapita,Latvia,north,Central and Eastern Europe,62,14.07,5.56,844,559
+Beer PerCapita,Cyprus,north,Western Europe,192,23.541,5.546,867,459
+Spirit PerCapita,Cyprus,north,Western Europe,154,23.541,5.546,867,459
+Wine PerCapita,Cyprus,north,Western Europe,113,23.541,5.546,867,459
+Beer PerCapita,Paraguay,south,Latin America and Caribbean,213,4.078,5.538,702,404
+Spirit PerCapita,Paraguay,south,Latin America and Caribbean,117,4.078,5.538,702,404
+Wine PerCapita,Paraguay,south,Latin America and Caribbean,74,4.078,5.538,702,404
+Beer PerCapita,Romania,north,Central and Eastern Europe,297,9.532,5.528,807,586
+Spirit PerCapita,Romania,north,Central and Eastern Europe,122,9.532,5.528,807,586
+Wine PerCapita,Romania,north,Central and Eastern Europe,167,9.532,5.528,807,586
+Beer PerCapita,Estonia,north,Central and Eastern Europe,224,17.737,5.517,868,477
+Spirit PerCapita,Estonia,north,Central and Eastern Europe,194,17.737,5.517,868,477
+Wine PerCapita,Estonia,north,Central and Eastern Europe,59,17.737,5.517,868,477
+Beer PerCapita,Jamaica,north,Latin America and Caribbean,82,4.879,5.51,732,188
+Spirit PerCapita,Jamaica,north,Latin America and Caribbean,97,4.879,5.51,732,188
+Wine PerCapita,Jamaica,north,Latin America and Caribbean,9,4.879,5.51,732,188
+Beer PerCapita,Croatia,north,Central and Eastern Europe,230,12.299,5.488,828,571
+Spirit PerCapita,Croatia,north,Central and Eastern Europe,87,12.299,5.488,828,571
+Wine PerCapita,Croatia,north,Central and Eastern Europe,254,12.299,5.488,828,571
+Beer PerCapita,Turkey,north,Middle East and Northern Africa,51,10.863,5.389,787,80
+Spirit PerCapita,Turkey,north,Middle East and Northern Africa,22,10.863,5.389,787,80
+Wine PerCapita,Turkey,north,Middle East and Northern Africa,7,10.863,5.389,787,80
+Beer PerCapita,Jordan,north,Middle East and Northern Africa,6,4.088,5.303,735,28
+Spirit PerCapita,Jordan,north,Middle East and Northern Africa,21,4.088,5.303,735,28
+Wine PerCapita,Jordan,north,Middle East and Northern Africa,1,4.088,5.303,735,28
+Beer PerCapita,Azerbaijan,north,Central and Eastern Europe,21,3.881,5.291,757,72
+Spirit PerCapita,Azerbaijan,north,Central and Eastern Europe,46,3.881,5.291,757,72
+Wine PerCapita,Azerbaijan,north,Central and Eastern Europe,5,3.881,5.291,757,72
+Beer PerCapita,Philippines,north,Southeastern Asia,71,2.951,5.279,696,258
+Spirit PerCapita,Philippines,north,Southeastern Asia,186,2.951,5.279,696,258
+Wine PerCapita,Philippines,north,Southeastern Asia,1,2.951,5.279,696,258
+Beer PerCapita,China,noth,Eastern Asia,79,8.117,5.245,748,279
+Spirit PerCapita,China,noth,Eastern Asia,192,8.117,5.245,748,279
+Wine PerCapita,China,noth,Eastern Asia,8,8.117,5.245,748,279
+Beer PerCapita,Kyrgyzstan,north,Central and Eastern Europe,31,1.22,5.185,669,134
+Spirit PerCapita,Kyrgyzstan,north,Central and Eastern Europe,97,1.22,5.185,669,134
+Wine PerCapita,Kyrgyzstan,north,Central and Eastern Europe,6,1.22,5.185,669,134
+Beer PerCapita,Serbia,north,Central and Eastern Europe,283,5.426,5.177,785,541
+Spirit PerCapita,Serbia,north,Central and Eastern Europe,131,5.426,5.177,785,541
+Wine PerCapita,Serbia,north,Central and Eastern Europe,127,5.426,5.177,785,541
+Beer PerCapita,Bosnia and Herzegovina,north,Central and Eastern Europe,76,4.809,5.163,766,257
+Spirit PerCapita,Bosnia and Herzegovina,north,Central and Eastern Europe,173,4.809,5.163,766,257
+Wine PerCapita,Bosnia and Herzegovina,north,Central and Eastern Europe,8,4.809,5.163,766,257
+Beer PerCapita,Montenegro,north,Central and Eastern Europe,31,7.029,5.161,810,273
+Spirit PerCapita,Montenegro,north,Central and Eastern Europe,114,7.029,5.161,810,273
+Wine PerCapita,Montenegro,north,Central and Eastern Europe,128,7.029,5.161,810,273
+Beer PerCapita,Dominican Republic,north,Latin America and Caribbean,193,6.794,5.155,733,349
+Spirit PerCapita,Dominican Republic,north,Latin America and Caribbean,147,6.794,5.155,733,349
+Wine PerCapita,Dominican Republic,north,Latin America and Caribbean,9,6.794,5.155,733,349
+Beer PerCapita,Morocco,north,Middle East and Northern Africa,12,2.893,5.151,662,28
+Spirit PerCapita,Morocco,north,Middle East and Northern Africa,6,2.893,5.151,662,28
+Wine PerCapita,Morocco,north,Middle East and Northern Africa,10,2.893,5.151,662,28
+Beer PerCapita,Hungary,north,Central and Eastern Europe,234,12.82,5.145,835,634
+Spirit PerCapita,Hungary,north,Central and Eastern Europe,215,12.82,5.145,835,634
+Wine PerCapita,Hungary,north,Central and Eastern Europe,185,12.82,5.145,835,634
+Beer PerCapita,Lebanon,north,Middle East and Northern Africa,20,8.257,5.129,753,106
+Spirit PerCapita,Lebanon,north,Middle East and Northern Africa,55,8.257,5.129,753,106
+Wine PerCapita,Lebanon,north,Middle East and Northern Africa,31,8.257,5.129,753,106
+Beer PerCapita,Portugal,north,Western Europe,194,19.872,5.123,845,600
+Spirit PerCapita,Portugal,north,Western Europe,67,19.872,5.123,845,600
+Wine PerCapita,Portugal,north,Western Europe,339,19.872,5.123,845,600
+Beer PerCapita,Macedonia,north,Central and Eastern Europe,106,4.834,5.121,756,219
+Spirit PerCapita,Macedonia,north,Central and Eastern Europe,27,4.834,5.121,756,219
+Wine PerCapita,Macedonia,north,Central and Eastern Europe,86,4.834,5.121,756,219
+Beer PerCapita,Vietnam,north,Southeastern Asia,111,2.171,5.061,689,114
+Spirit PerCapita,Vietnam,north,Southeastern Asia,2,2.171,5.061,689,114
+Wine PerCapita,Vietnam,north,Southeastern Asia,1,2.171,5.061,689,114
+Beer PerCapita,Tunisia,north,Middle East and Northern Africa,51,3.689,5.045,732,74
+Spirit PerCapita,Tunisia,north,Middle East and Northern Africa,3,3.689,5.045,732,74
+Wine PerCapita,Tunisia,north,Middle East and Northern Africa,20,3.689,5.045,732,74
+Beer PerCapita,Greece,north,Western Europe,133,17.882,5.033,868,463
+Spirit PerCapita,Greece,north,Western Europe,112,17.882,5.033,868,463
+Wine PerCapita,Greece,north,Western Europe,218,17.882,5.033,868,463
+Beer PerCapita,Mongolia,noth,Eastern Asia,77,3.694,4.907,743,274
+Spirit PerCapita,Mongolia,noth,Eastern Asia,189,3.694,4.907,743,274
+Wine PerCapita,Mongolia,noth,Eastern Asia,8,3.694,4.907,743,274
+Beer PerCapita,Nigeria,north,Sub-Saharan Africa,42,2.176,4.875,530,49
+Spirit PerCapita,Nigeria,north,Sub-Saharan Africa,5,2.176,4.875,530,49
+Wine PerCapita,Nigeria,north,Sub-Saharan Africa,2,2.176,4.875,530,49
+Beer PerCapita,Honduras,north,Latin America and Caribbean,69,2.375,4.871,614,169
+Spirit PerCapita,Honduras,north,Latin America and Caribbean,98,2.375,4.871,614,169
+Wine PerCapita,Honduras,north,Latin America and Caribbean,2,2.375,4.871,614,169
+Beer PerCapita,Zambia,south,Sub-Saharan Africa,32,1.263,4.795,586,55
+Spirit PerCapita,Zambia,south,Sub-Saharan Africa,19,1.263,4.795,586,55
+Wine PerCapita,Zambia,south,Sub-Saharan Africa,4,1.263,4.795,586,55
+Beer PerCapita,Albania,north,Central and Eastern Europe,89,4.132,4.655,782,275
+Spirit PerCapita,Albania,north,Central and Eastern Europe,132,4.132,4.655,782,275
+Wine PerCapita,Albania,north,Central and Eastern Europe,54,4.132,4.655,782,275
+Beer PerCapita,Sierra Leone,north,Sub-Saharan Africa,25,481,4.635,413,30
+Spirit PerCapita,Sierra Leone,north,Sub-Saharan Africa,3,481,4.635,413,30
+Wine PerCapita,Sierra Leone,north,Sub-Saharan Africa,2,481,4.635,413,30
+Beer PerCapita,Namibia,south,Sub-Saharan Africa,376,4.561,4.574,645,380
+Spirit PerCapita,Namibia,south,Sub-Saharan Africa,3,4.561,4.574,645,380
+Wine PerCapita,Namibia,south,Sub-Saharan Africa,1,4.561,4.574,645,380
+Beer PerCapita,Cameroon,south,Sub-Saharan Africa,147,1.375,4.513,553,152
+Spirit PerCapita,Cameroon,south,Sub-Saharan Africa,1,1.375,4.513,553,152
+Wine PerCapita,Cameroon,south,Sub-Saharan Africa,4,1.375,4.513,553,152
+Beer PerCapita,South Africa,south,Sub-Saharan Africa,225,5.28,4.459,696,382
+Spirit PerCapita,South Africa,south,Sub-Saharan Africa,76,5.28,4.459,696,382
+Wine PerCapita,South Africa,south,Sub-Saharan Africa,81,5.28,4.459,696,382
+Beer PerCapita,Egypt,north,Middle East and Northern Africa,6,3.548,4.362,694,11
+Spirit PerCapita,Egypt,north,Middle East and Northern Africa,4,3.548,4.362,694,11
+Wine PerCapita,Egypt,north,Middle East and Northern Africa,1,3.548,4.362,694,11
+Beer PerCapita,Armenia,north,Central and Eastern Europe,21,3.606,4.36,749,211
+Spirit PerCapita,Armenia,north,Central and Eastern Europe,179,3.606,4.36,749,211
+Wine PerCapita,Armenia,north,Central and Eastern Europe,11,3.606,4.36,749,211
+Beer PerCapita,Kenya,both,Sub-Saharan Africa,58,1.463,4.356,585,82
+Spirit PerCapita,Kenya,both,Sub-Saharan Africa,22,1.463,4.356,585,82
+Wine PerCapita,Kenya,both,Sub-Saharan Africa,2,1.463,4.356,585,82
+Beer PerCapita,Ukraine,north,Central and Eastern Europe,206,2.186,4.324,746,488
+Spirit PerCapita,Ukraine,north,Central and Eastern Europe,237,2.186,4.324,746,488
+Wine PerCapita,Ukraine,north,Central and Eastern Europe,45,2.186,4.324,746,488
+Beer PerCapita,Ghana,north,Sub-Saharan Africa,31,1.517,4.276,588,44
+Spirit PerCapita,Ghana,north,Sub-Saharan Africa,3,1.517,4.276,588,44
+Wine PerCapita,Ghana,north,Sub-Saharan Africa,10,1.517,4.276,588,44
+Beer PerCapita,Dem. Rep. Congo,south,Sub-Saharan Africa,32,1.712,4.272,452,36
+Spirit PerCapita,Dem. Rep. Congo,south,Sub-Saharan Africa,3,1.712,4.272,452,36
+Wine PerCapita,Dem. Rep. Congo,south,Sub-Saharan Africa,1,1.712,4.272,452,36
+Beer PerCapita,Georgia,north,Central and Eastern Europe,52,3.866,4.252,776,301
+Spirit PerCapita,Georgia,north,Central and Eastern Europe,100,3.866,4.252,776,301
+Wine PerCapita,Georgia,north,Central and Eastern Europe,149,3.866,4.252,776,301
+Beer PerCapita,Rep. Congo,south,Sub-Saharan Africa,76,498,4.236,612,86
+Spirit PerCapita,Rep. Congo,south,Sub-Saharan Africa,1,498,4.236,612,86
+Wine PerCapita,Rep. Congo,south,Sub-Saharan Africa,9,498,4.236,612,86
+Beer PerCapita,Senegal,north,Sub-Saharan Africa,9,953,4.219,499,17
+Spirit PerCapita,Senegal,north,Sub-Saharan Africa,1,953,4.219,499,17
+Wine PerCapita,Senegal,north,Sub-Saharan Africa,7,953,4.219,499,17
+Beer PerCapita,Bulgaria,north,Central and Eastern Europe,231,7.469,4.217,810,577
+Spirit PerCapita,Bulgaria,north,Central and Eastern Europe,252,7.469,4.217,810,577
+Wine PerCapita,Bulgaria,north,Central and Eastern Europe,94,7.469,4.217,810,577
+Beer PerCapita,Zimbabwe,south,Sub-Saharan Africa,64,1.029,4.193,532,86
+Spirit PerCapita,Zimbabwe,south,Sub-Saharan Africa,18,1.029,4.193,532,86
+Wine PerCapita,Zimbabwe,south,Sub-Saharan Africa,4,1.029,4.193,532,86
+Beer PerCapita,Malawi,south,Sub-Saharan Africa,8,300,4.156,474,20
+Spirit PerCapita,Malawi,south,Sub-Saharan Africa,11,300,4.156,474,20
+Wine PerCapita,Malawi,south,Sub-Saharan Africa,1,300,4.156,474,20
+Beer PerCapita,Gabon,south,Sub-Saharan Africa,347,7.079,4.121,698,504
+Spirit PerCapita,Gabon,south,Sub-Saharan Africa,98,7.079,4.121,698,504
+Wine PerCapita,Gabon,south,Sub-Saharan Africa,59,7.079,4.121,698,504
+Beer PerCapita,Mali,north,Sub-Saharan Africa,5,780,4.073,421,7
+Spirit PerCapita,Mali,north,Sub-Saharan Africa,1,780,4.073,421,7
+Wine PerCapita,Mali,north,Sub-Saharan Africa,1,780,4.073,421,7
+Beer PerCapita,Haiti,north,Latin America and Caribbean,1,735,4.028,496,328
+Spirit PerCapita,Haiti,north,Latin America and Caribbean,326,735,4.028,496,328
+Wine PerCapita,Haiti,north,Latin America and Caribbean,1,735,4.028,496,328
+Beer PerCapita,Botswana,south,Sub-Saharan Africa,173,6.954,3.974,712,243
+Spirit PerCapita,Botswana,south,Sub-Saharan Africa,35,6.954,3.974,712,243
+Wine PerCapita,Botswana,south,Sub-Saharan Africa,35,6.954,3.974,712,243
+Beer PerCapita,Comoros,south,Sub-Saharan Africa,1,775,3.956,502,5
+Spirit PerCapita,Comoros,south,Sub-Saharan Africa,3,775,3.956,502,5
+Wine PerCapita,Comoros,south,Sub-Saharan Africa,1,775,3.956,502,5
+Beer PerCapita,Cote d'Ivoire,north,Sub-Saharan Africa,37,1.535,3.916,486,45
+Spirit PerCapita,Cote d'Ivoire,north,Sub-Saharan Africa,1,1.535,3.916,486,45
+Wine PerCapita,Cote d'Ivoire,north,Sub-Saharan Africa,7,1.535,3.916,486,45
+Beer PerCapita,Cambodia,north,Southeastern Asia,57,1.27,3.907,576,123
+Spirit PerCapita,Cambodia,north,Southeastern Asia,65,1.27,3.907,576,123
+Wine PerCapita,Cambodia,north,Southeastern Asia,1,1.27,3.907,576,123
+Beer PerCapita,Angola,south,Sub-Saharan Africa,217,3.309,3.866,577,319
+Spirit PerCapita,Angola,south,Sub-Saharan Africa,57,3.309,3.866,577,319
+Wine PerCapita,Angola,south,Sub-Saharan Africa,45,3.309,3.866,577,319
+Beer PerCapita,Niger,north,Sub-Saharan Africa,3,368,3.856,351,6
+Spirit PerCapita,Niger,north,Sub-Saharan Africa,2,368,3.856,351,6
+Wine PerCapita,Niger,north,Sub-Saharan Africa,1,368,3.856,351,6
+Beer PerCapita,Chad,north,Sub-Saharan Africa,15,651,3.763,405,17
+Spirit PerCapita,Chad,north,Sub-Saharan Africa,1,651,3.763,405,17
+Wine PerCapita,Chad,north,Sub-Saharan Africa,1,651,3.763,405,17
+Beer PerCapita,Burkina Faso,north,Sub-Saharan Africa,25,614,3.739,420,39
+Spirit PerCapita,Burkina Faso,north,Sub-Saharan Africa,7,614,3.739,420,39
+Wine PerCapita,Burkina Faso,north,Sub-Saharan Africa,7,614,3.739,420,39
+Beer PerCapita,Madagascar,south,Sub-Saharan Africa,26,402,3.695,517,45
+Spirit PerCapita,Madagascar,south,Sub-Saharan Africa,15,402,3.695,517,45
+Wine PerCapita,Madagascar,south,Sub-Saharan Africa,4,402,3.695,517,45
+Beer PerCapita,Tanzania,south,Sub-Saharan Africa,36,878,3.666,533,43
+Spirit PerCapita,Tanzania,south,Sub-Saharan Africa,6,878,3.666,533,43
+Wine PerCapita,Tanzania,south,Sub-Saharan Africa,1,878,3.666,533,43
+Beer PerCapita,Liberia,north,Sub-Saharan Africa,19,455,3.622,432,173
+Spirit PerCapita,Liberia,north,Sub-Saharan Africa,152,455,3.622,432,173
+Wine PerCapita,Liberia,north,Sub-Saharan Africa,2,455,3.622,432,173
+Beer PerCapita,Benin,north,Sub-Saharan Africa,34,789,3.484,512,51
+Spirit PerCapita,Benin,north,Sub-Saharan Africa,4,789,3.484,512,51
+Wine PerCapita,Benin,north,Sub-Saharan Africa,13,789,3.484,512,51
+Beer PerCapita,Togo,north,Sub-Saharan Africa,36,577,3.303,500,57
+Spirit PerCapita,Togo,north,Sub-Saharan Africa,2,577,3.303,500,57
+Wine PerCapita,Togo,north,Sub-Saharan Africa,19,577,3.303,500,57
+Beer PerCapita,Syria,north,Middle East and Northern Africa,5,2.058,3.069,536,56
+Spirit PerCapita,Syria,north,Middle East and Northern Africa,35,2.058,3.069,536,56
+Wine PerCapita,Syria,north,Middle East and Northern Africa,16,2.058,3.069,536,56
