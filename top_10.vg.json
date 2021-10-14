@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+    "title": {
+      "text":"Top 10 Country consumed alcohol",
+      "fontSize": 21,
+      "dx":50},
+    "description": "Alcohol consumed in top 10 country",
+    "width": "container",
+    "height": 300,
+    "data": {
+      "url" : "https://raw.githubusercontent.com/Kaylee314/3179_testrepo/main/top10%20alcohol.csv"
+    },
+    "mark": {"type": "bar"},
+    "encoding": {
+      "x": {"field": "Consumed","type": "quantitative"},
+      "y": {"field": "Country", "type": "nominal", 
+      "sort": {"field": "Consumed", "op": "sum", "order": "descending"}
+      },
+      "color": {
+        "field": "Type",
+        "type": "nominal",
+        "scale": {
+          "range": ["#decbe4","#ccebc5","#fbb4ae","#b3cde3"]
+        },
+        "legend":{
+          "orient":"bottom",
+          "direction":"horizontal"
+        }
+      },
+      "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {"field": "Type", "type": "nominal"},
+            {"field": "Consumed", "type": "quantitative"} ]
+   },
+   "config": {
+    "background":"#e0ffff"
+  }
+}

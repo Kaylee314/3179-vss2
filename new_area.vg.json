@@ -1,0 +1,41 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":{
+      "text":"Difference alcohol consumed over time",
+      "fontSize":21,
+      "align": "center",
+      "dx":-100
+    },
+    "width": "container", "height": 300,
+    "data": {"url":"https://raw.githubusercontent.com/Kaylee314/3179_testrepo/main/Newdrink.csv"},
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "field": "Year ended 30 June",
+        "type":"ordinal",
+        "title":"Year"
+      },
+      "y": {
+        "aggregate": "sum", 
+        "field": "Pivot Field Values",
+        "title": "Total alcohol consumed"
+      },
+      "color": {
+        "field": "Type",
+        "scale": {
+          "range": ["#b3cde3","#ccebc5","#decbe4","#fbb4ae"]
+        },
+        "legend":{
+          "orient":"bottom",
+          "direction":"horizontal"
+        }
+      },
+      "tooltip":[
+        {"field": "Type", "type": "nominal"},
+            {"field": "Year ended 30 June", "type": "nominal"},
+            {"field": "Pivot Field Values", "type": "quantitative", "format": ","}]
+    },
+    "config": {
+      "background":"#e0ffff"
+    }
+  }
