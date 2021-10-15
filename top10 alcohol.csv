@@ -1,0 +1,28 @@
+Country,Hemisphere,Region,Alcohol Type,Consumed,GDP PerCapita,Happiness Score,HDI,Total alcohol consumed
+Czech Republic,north,Central and Eastern Europe,Beer Per Capita,361,18.484,6.596,885,665
+Czech Republic,north,Central and Eastern Europe,Spirit Per Capita,170,18.484,6.596,885,665
+Czech Republic,north,Central and Eastern Europe,Wine Per Capita,134,18.484,6.596,885,665
+France,north,Western Europe,Beer Per Capita,127,36.87,6.478,899,648
+France,north,Western Europe,Spirit Per Capita,151,36.87,6.478,899,648
+France,north,Western Europe,Wine Per Capita,370,36.87,6.478,899,648
+Russian Federation,north,Central and Eastern Europe,Beer Per Capita,247,8.748,5.856,815,646
+Russian Federation,north,Central and Eastern Europe,Spirit Per Capita,326,8.748,5.856,815,646
+Russian Federation,north,Central and Eastern Europe,Wine Per Capita,73,8.748,5.856,815,646
+Lithuania,north,Central and Eastern Europe,Beer Per Capita,343,14.913,5.813,855,643
+Lithuania,north,Central and Eastern Europe,Spirit Per Capita,244,14.913,5.813,855,643
+Lithuania,north,Central and Eastern Europe,Wine Per Capita,56,14.913,5.813,855,643
+Luxembourg,north,Western Europe,Beer Per Capita,236,100.739,6.871,904,640
+Luxembourg,north,Western Europe,Spirit Per Capita,133,100.739,6.871,904,640
+Luxembourg,north,Western Europe,Wine Per Capita,271,100.739,6.871,904,640
+Germany,north,Western Europe,Beer Per Capita,346,42.233,6.994,934,638
+Germany,north,Western Europe,Spirit Per Capita,117,42.233,6.994,934,638
+Germany,north,Western Europe,Wine Per Capita,175,42.233,6.994,934,638
+Hungary,north,Central and Eastern Europe,Beer Per Capita,234,12.82,5.145,835,634
+Hungary,north,Central and Eastern Europe,Spirit Per Capita,215,12.82,5.145,835,634
+Hungary,north,Central and Eastern Europe,Wine Per Capita,185,12.82,5.145,835,634
+Poland,north,Central and Eastern Europe,Beer Per Capita,343,12.415,5.835,860,614
+Poland,north,Central and Eastern Europe,Spirit Per Capita,215,12.415,5.835,860,614
+Poland,north,Central and Eastern Europe,Wine Per Capita,56,12.415,5.835,860,614
+Slovakia,north,Central and Eastern Europe,Beer Per Capita,196,16.53,6.078,853,605
+Slovakia,north,Central and Eastern Europe,Spirit Per Capita,293,16.53,6.078,853,605
+Slovakia,north,Central and Eastern Europe,Wine Per Capita,116,16.53,6.078,853,605
