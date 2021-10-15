@@ -1,4 +1,4 @@
-Alcohol_type,Country,Hemisphere,Region,Consumed value,GDP PerCapita,Happiness Score,HDI,Total PerCapita
+Alcohol_type,Country,Hemisphere,Region,Consumed_value,GDP PerCapita,Happiness Score,HDI,Total_PerCapita
 Beer PerCapita,Denmark,north,Western Europe,224,53.579,7.526,928,583
 Spirit PerCapita,Denmark,north,Western Europe,81,53.579,7.526,928,583
 Wine PerCapita,Denmark,north,Western Europe,278,53.579,7.526,928,583
